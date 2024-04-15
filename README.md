@@ -6,4 +6,4 @@
 
 <h2> Mobile view </h2>
 
-<img src="./images/image-product-mobile.jpg" alt="">
+<img src="./images/mobile-design.jpg" alt="">
